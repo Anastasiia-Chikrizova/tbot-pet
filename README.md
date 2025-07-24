@@ -7,7 +7,7 @@ It demonstrates basic interaction with the Telegram Bot API: handling messages, 
 
 ## 🔗 Bot Link
 
-👉 [t.me/tbot_pet_bot](https://t.me/achikrizova_bot)
+👉 [bot link](https://t.me/achikrizova_bot)
 
 ---
 
